@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: ELK-STACK-SAMPLE
+
+server:
+  port: 9898
+
+logging:
+  file:
+    name: C:/Users/gkish/Desktop/elkLogs/elk-stack.log
