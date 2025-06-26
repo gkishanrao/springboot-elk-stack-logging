@@ -7,5 +7,5 @@ Download ELK Binary Distrubution
 
 2.Logstash Download.
 
-3.Kibana Download.
+3.Kibana https://www.elastic.co/downloads/kibana
 
